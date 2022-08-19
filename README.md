@@ -6,5 +6,7 @@ Nowdays robotics are considered important and substantial in the industrial fiel
 Explanation of Pictures: 
 
 ![](images/IMG-2189.jpg)
-![](images/IMG-2190.jpg)
-![](images/IMG-2193.jpg)
+
+Detailed Description: 
+
+It is a robot that greats audience, pour arabian coffee. The robot has a smart screen 
