@@ -1,5 +1,20 @@
 # Intellectual Property and Patent-Items 
 
+This task of the Smart Methods summer training is all about how to register an intellectual property. Most - if not all- of the works and ideas done by Smart Methods are never done by any other, specially in Saudi Arabia, which makes them eligable for registering their ideas as a patent or intellectual property. 
+
+So for registering an intellectual property, which any body can do that if they fulfill the conditions, should follow some steps. 
+
+1 - Register at the Saudi Authority for Intellectual Property at: https://www.saip.gov.sa/ 
+
+They will give you four templates to fill, which are: 
+
+- Abstract about the invention. 
+- Full Description. 
+- Protection items. 
+- Graphics of the invention (if any).
+
+So here I have written the steps for the robot we are creating this summer :point_down: 
+
 ### Abstract & Full Description: 
 Nowdays robotics are considered important and substantial in the industrial field all over the world and in our country Saudi Arabia for sure. For that, smart methods company are creating service robotic that will reduce the cost and increase the productivity. The robot consist of head, structure, and an interactive board. It is equipped with signal reception transistor. These signals will be send through the head, are, and the rest of the robot structure. 
 
@@ -7,7 +22,7 @@ Nowdays robotics are considered important and substantial in the industrial fiel
 
 ![](images/IMG-2189.jpg)
 
-### Detailed Description and Protection Items: 
+### Full Description and Protection Items: 
 It is a robot that greats audience, and dances Al-muzmar. The robot has a smart screen with a length of 9.4 inches.
 
 Protection Items: 
